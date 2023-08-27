@@ -1,5 +1,5 @@
 # 李跳跳 软件备份
----致敬大神
+---致敬
 
 [大小姐李跳跳：无限期停止更新公告](https://mp.weixin.qq.com/s/ha6hHr40umlj-ExHdGFXXw)
 
