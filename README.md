@@ -12,7 +12,6 @@
 
 
 ##   李跳跳作品集合
-https://www.bilibili.com/video/BV1GL4y1p7Pt/?spm_id_from=333.337.search-card.all.click&vd_source=067f960f1a392a89c2352988e341211c
 
 [李跳跳2.2正式版.apk](https://github.com/rongzhiy/LiTiaotiao/blob/main/%E6%9D%8E%E8%B7%B3%E8%B7%B32.2%E6%AD%A3%E5%BC%8F%E7%89%88.apk)
 使用教程：
