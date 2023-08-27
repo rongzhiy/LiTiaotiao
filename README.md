@@ -4,7 +4,7 @@
 
 [大小姐李跳跳：谈谈我的看法](https://mp.weixin.qq.com/s/gsC9STZlGrPNNEKUV4btkA)
 
-## 不错的仓库
+## 自定义规则仓库
 
 [李跳跳自定义规则](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/tree/main)
 
