@@ -8,6 +8,7 @@
 ## 自定义规则仓库
 
 [李跳跳自定义规则](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/tree/main)
+[AllRules.json](https://github.com/rongzhiy/LiTiaotiao/blob/main/AllRules.json)
 
 
 ##   李跳跳作品集合
