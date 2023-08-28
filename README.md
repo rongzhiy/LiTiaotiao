@@ -22,7 +22,7 @@
 
 ✅[李跳跳_真实好友4.0.apk](https://github.com/rongzhiy/LiTiaotiao/blob/main/%E6%9D%8E%E8%B7%B3%E8%B7%B3_%E7%9C%9F%E5%AE%9E%E5%A5%BD%E5%8F%8B4.0.apk)
 使用教程：
-[真是好友](https://www.bilibili.com/video/BV1GL4y1p7Pt/?share_source=copy_web&vd_source=a6cccf0ec5cff281201d16f54d042779)
+[真实好友](https://www.bilibili.com/video/BV1GL4y1p7Pt/?share_source=copy_web&vd_source=a6cccf0ec5cff281201d16f54d042779)
 
 # 二、 火绒安全个人版 PC端拦截广告 💻
 ✅[火绒安全官网](https://www.huorong.cn/)
