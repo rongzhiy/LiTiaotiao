@@ -1,4 +1,4 @@
-# 一、 李跳跳 安卓跳过广告 📱
+# 一、 李跳跳 一款用来跳过开屏广告和弹窗的安卓应用。 📱
 
 
 [大小姐李跳跳：无限期停止更新公告](https://mp.weixin.qq.com/s/ha6hHr40umlj-ExHdGFXXw)
@@ -6,6 +6,8 @@
 [大小姐李跳跳：谈谈我的看法](https://mp.weixin.qq.com/s/gsC9STZlGrPNNEKUV4btkA)
 
 ## 自定义规则仓库
+
+[李跳跳进阶指南](https://juejin.cn/post/6938590373740544007#heading-8)
 
 [李跳跳自定义规则](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules/tree/main)
 [AllRules.json](https://github.com/rongzhiy/LiTiaotiao/blob/main/AllRules.json)
